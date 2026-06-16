@@ -1,0 +1,6 @@
+{
+  "name": "Savannah Restoration",
+  "description": "Savannah's premier water damage restoration service. 24/7 emergency response across Chatham County.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
