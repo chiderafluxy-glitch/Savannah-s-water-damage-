@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://savannahwaterdamage.vercel.app/sitemap.xml
